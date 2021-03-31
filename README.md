@@ -1,6 +1,6 @@
 # music-player
 
-(link heroku) [https://music-player-glaucio.herokuapp.com/]
+[link heroku](https://music-player-glaucio.herokuapp.com/)
 
 ## Project setup
 
